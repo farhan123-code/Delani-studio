@@ -24,7 +24,7 @@
 
 ## Support and contact details
 - Persons are encouraged to copy,modify,merge and make changes to this software in a case of new ideas or issues.
-- For inquiries or to reach me Email:sadamfarhan.sf3@gmail.com
+- For inquiries or to reach me Email:farhan123-code@gmail.com
 
 ### License
 GPL License
